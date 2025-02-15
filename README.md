@@ -50,11 +50,7 @@ A **monopolist (Firm B)** competes with a **new entrant (Firm A)** in a market s
 - Saanchi Gupta  
 - Nishika Kakrecha  
 
-📩 **Contact:** [Emails Listed in Document]  
+**Contact:** [Emails Listed in Document]  
 
 ## **License**
 This project is licensed under the **MIT License**.
-
----
-
-This version keeps it **concise, readable, and professional** while **removing excessive details**. Let me know if you need any refinements!
